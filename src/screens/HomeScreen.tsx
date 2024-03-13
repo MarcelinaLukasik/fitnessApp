@@ -13,8 +13,7 @@ export default function HomeScreen( { navigation: { navigate } } : ScreenProps) 
   return (
     <View style={styles.container}>
       <Text>Home</Text>
-      <Button title="Profile" onPress={ navigateToProfile }>
-      </Button>
+      <Button title="Profile" onPress={ navigateToProfile } />
     </View>
   );
 }

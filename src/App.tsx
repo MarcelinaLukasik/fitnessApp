@@ -6,7 +6,6 @@ import { registerRootComponent } from 'expo';
 export default function App() {
   return (
     <Navigation/>
-
   );
 }
 
