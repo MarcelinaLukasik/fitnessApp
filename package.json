@@ -1,7 +1,7 @@
 {
   "name": "fitnessapp",
   "version": "1.0.0",
-
+  "main": "src/AppEntry.tsx",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
